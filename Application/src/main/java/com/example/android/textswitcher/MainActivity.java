@@ -15,7 +15,6 @@
  */
 
 package com.lingvokot.helloworld;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -25,6 +24,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.TextSwitcher;
 import android.widget.TextView;
+import com.MY.HELLO.WORLD.R;
 import android.widget.ViewSwitcher.ViewFactory;
 
 /**
